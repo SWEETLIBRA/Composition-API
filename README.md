@@ -1,2 +1,2 @@
 # Composition-API
-Validation
+Validation of the authorization form
